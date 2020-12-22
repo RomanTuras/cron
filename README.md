@@ -7,4 +7,4 @@
 #### Launching php artisan command:
 `/usr/bin/php72 ~/www/your_site.com/artisan schedule:run`
 
-** Note Executed file must have correct permissions**
+**Note Executed file must have correct permissions**
